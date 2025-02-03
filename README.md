@@ -15,7 +15,7 @@ Sample Code for Selenium testing of a virtual banking assistant
         
         https://sites.google.com/a/chromium.org/chromedriver/downloads
         
-## About The Website created by me to be tested: 
+## About The Website to be tested: 
 (Github link : https://github.com/jmp1730/Virtual-Banking-Assistant ) 
 
 ## Technologies used in building this website: 
